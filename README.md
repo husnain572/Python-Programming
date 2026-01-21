@@ -1,7 +1,5 @@
 # Python Programming
 
-# Python Data Analysis Repository
-
 This repository contains practice and learning material for Python and its core data analysis and visualization libraries.
 
 ## Libraries Included
